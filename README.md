@@ -1,5 +1,5 @@
 # Robust-Pupil-Detection-Algorithm
-
+<div style="text-align: justify;">
 We presents a method for robust real-time pupil detection using computer vision techniques in OpenCV and Python. The technique focuses on reducing noise caused by eyelashes and other interferences, thus improving the accuracy and speed of detection. This approach is highly relevant for applications like gaze estimation, human-computer interaction, and advanced driver assistance.  
 <br>
 <div align="center">
@@ -16,5 +16,5 @@ The eye camera is a Raspberry Pi Zero camera with an OmniVision OV5647 camera se
 This project was part of the course "Recent Advances in Machine Learning" at Universität Siegen, Germany.
 
 The implementation is built and modified on the 2023 paper "Raj, Ankur & Bhattarai, Diwas & Van Laerhoven, Kristof. (2023). An Embedded and Real-Time Pupil Detection Pipeline. 10.48550/arXiv.2302.14098."
-
+<div>
 
