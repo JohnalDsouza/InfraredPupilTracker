@@ -1,9 +1,8 @@
 # Robust-Pupil-Detection-Algorithm
 
 We presents a method for robust real-time pupil detection using computer vision techniques in OpenCV and Python. The technique focuses on reducing noise caused by eyelashes and other interferences, thus improving the accuracy and speed of detection. This approach is highly relevant for applications like gaze estimation, human-computer interaction, and advanced driver assistance.  
-
-<img src="image/eye-glasses.png" width="200" height="200">
 <div align="center">
+<img src="image/eye-glasses.png" width="200" height="200">
 Eye Camera with Non-Invasive Infrared Camera
 </div>
 
