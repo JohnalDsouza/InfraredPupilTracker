@@ -8,6 +8,7 @@ We presents a method for robust real-time pupil detection using computer vision 
 </div>
 <div align="center">
 Eye Camera with Non-Invasive Infrared Camera
+</div>  
 <br>  
 
 The methodology includes preprocessing steps like ROI selection, blurring, and Canny Edge Detection, followed by contour extraction and circular contour detection. The best circular contour is selected as the pupil candidate. The paper also discusses the dataset used, which consists of infrared camera footage, and presents the results showing the effectiveness of the method in terms of accuracy, precision, and processing speed.
