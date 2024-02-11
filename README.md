@@ -1,4 +1,4 @@
-# Robust-Pupil-Detection-Algorithm
+# InfraredPupilTracker: Pupil Detection using Computer Vision Techniques
 
 We presents a method for robust real-time pupil detection using computer vision techniques in OpenCV and Python. The technique focuses on reducing noise caused by eyelashes and other interferences, thus improving the accuracy and speed of detection. This approach is highly relevant for applications like gaze estimation, human-computer interaction, and advanced driver assistance. 
 
